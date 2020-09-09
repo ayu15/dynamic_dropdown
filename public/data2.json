@@ -1,0 +1,25 @@
+{
+    "currency": [
+      {
+        "id": 1,
+        "name": "Rupees",
+        "code": "IND"
+      },{
+          "id": 2,
+          "name": "Australian Dollar",
+          "code": "AUS"
+      },{
+          "id": 3,
+          "name": "Pound",
+          "code": "ENG"
+      },{
+          "id": 4,
+          "name": "Dollar",
+          "code": "USA"
+      },{
+          "id": 5,
+          "name": "South African Rand",
+          "code": "SA"
+      }
+    ]
+  }
